@@ -1,0 +1,7 @@
+<suite name = "Sample suite">
+    <test name = "LearningJenkins">
+        <classes>
+            <class name = "Demo1"></class>
+        </classes>
+    </test>
+</suite>
